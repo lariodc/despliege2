@@ -9,7 +9,6 @@
 <img style="height: 200px;width: 200px;background-color:#eaefa0;    margin: 20px;"class="card-img-top rounded-circle mx-auto d-block" src="/images/{{$provider->logo}}" alt="">
 <div class="text-center">
 	<h5 class="card-title"> {{$provider->name}} </h5>
-	{{--<h1> {{$provider->slug}} </h1>--}}
 	<p class="card-text">
 		Triple digital plus: $117900
 	</p>
